@@ -1,7 +1,5 @@
 <template>
-    <a-config-provider>
-        <a-button>这是测试按钮</a-button>
-    </a-config-provider>
+    <a-button>这是测试按钮</a-button>
 </template>
 
 <script lang="ts" setup>
